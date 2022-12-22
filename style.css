@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    background: red;
+    background: yellow;
 }
 
 .container {
@@ -21,7 +21,7 @@ body{
 
 .col-4 {
     width: 33.3333%;
-    padding: 0 15px;
+    padding: 0 16px;
 }
 
 #categories {
